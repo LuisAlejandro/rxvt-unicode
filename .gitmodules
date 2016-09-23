@@ -1,0 +1,6 @@
+[submodule "libptytty"]
+	path = libptytty
+	url = https://github.com/LuisAlejandro/libptytty
+[submodule "libev"]
+	path = libev
+	url = https://github.com/LuisAlejandro/libev
